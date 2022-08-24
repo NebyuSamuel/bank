@@ -1,0 +1,15 @@
+{
+  "name": "bank",
+  "version": "1.0.0",
+  "description": "This is a dumy bank mobile app API developed during training session at Eagle I",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/NebyuSamuel/bank.git"
+  },
+  "author": "Nebyu Samuel",
+  "license": "ISC"
+}
